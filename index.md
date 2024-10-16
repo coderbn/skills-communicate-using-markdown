@@ -5,6 +5,4 @@
 ##### <h5> header 5 </h5>
 ###### <h6> header 6 </h6>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Sample Image](https://tse2.mm.bing.net/th?id=OIP.VwDUFATl1KnlGdIv0X7njAAAAA&pid=Api&P=0&w=300&h=300)
